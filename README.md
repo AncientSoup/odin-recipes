@@ -20,5 +20,5 @@
 
 ### Other resources used
 * [Lasagna recipe](https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/)
-* [Mashed potatoes Recipe](https://www.allrecipes.com/recipe/24771/basic-mashed-potatoes/)
+* [Mashed potatoes recipe](https://www.allrecipes.com/recipe/24771/basic-mashed-potatoes/)
 * [Tapsilog recipe](https://panlasangpinoy.com/tapsilog-recipe/)
