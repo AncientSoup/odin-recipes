@@ -1,5 +1,6 @@
 # TOP Project 1 - Recipes
-1st project for The Odin Project
+> Status: Not hosted for live preview. Just the sourcecode.
+1st project for The Odin Project.
 
 ### Languages used:
 * HTML
