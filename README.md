@@ -1,5 +1,5 @@
 # TOP Project 1 - Recipes
-> Status: Not hosted for live preview. Just the sourcecode.
+> Status: Not hosted for live preview. Just the sourcecode.  
 1st project for The Odin Project.
 
 ### Languages used:
